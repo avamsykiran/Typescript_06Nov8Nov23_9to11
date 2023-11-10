@@ -47,3 +47,28 @@ Typescript
             },
             "lib": ["es2015"]
         }
+
+    functions
+
+        function funName(param1:type,param2:type) : returntype {
+
+        }
+
+        const funName = function(param1:type,param2:type) : returntype {
+
+        }
+
+        returnType can be any supported data type inc;uding void and never.
+
+        mostly we use void, and void facilitates null value.
+        never doesnt even allow nulls.
+
+        
+    OOP
+
+        interface
+        class
+        aliases
+        enums
+
+
